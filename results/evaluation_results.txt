@@ -1,0 +1,17 @@
+XGBoost Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9998    0.9990    0.9994     56864
+           1     0.5957    0.8571    0.7029        98
+
+    accuracy                         0.9988     56962
+   macro avg     0.7977    0.9281    0.8512     56962
+weighted avg     0.9991    0.9988    0.9989     56962
+
+Confusion Matrix:
+[[56807    57]
+ [   14    84]]
+Accuracy: 0.99875355500158
+F1 Score: 0.702928870292887
+ROC_AUC Score: 0.9581408164700884
+PR_AUC Score: 0.8383453424643224
